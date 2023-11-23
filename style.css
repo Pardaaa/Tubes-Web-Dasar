@@ -1,0 +1,22 @@
+/* 2272039_Nathan Raphael Pardamean Hutagalung */
+
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+header h1 {
+    font-weight: bold;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.singer img{ 
+    width: 100px;
+}
+
+footer img{
+    padding: 5px;
+    width: 50px;
+}
+
